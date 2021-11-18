@@ -17,13 +17,14 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-**Моя статистика**
+**Моя статистика:**
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=Comediant24&hide=contribs&show_icons=true">
+<a href="https://github-readme-stats.vercel.app/api?username=invginaku&hide=contribs&show_icons=true">
   <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=invginaku&hide=contribs&show_icons=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Comediant24&layout=compact">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=invginaku&layout=compact">
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invginaku&layout=compact" />
 </a>
 </div>
+

@@ -1,6 +1,6 @@
 **Hi there 👋**
 
-I am Nikita and currently working as a software developer specifically in iOS. <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=ecf05e47kmlby9l9kiy2msb1imxajo5jqukpo8vsamf8trx0&rid=giphy.gif&ct=g" width="30">
+I am Nikita and currently working as a software developer specifically in iOS(Swift). <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=ecf05e47kmlby9l9kiy2msb1imxajo5jqukpo8vsamf8trx0&rid=giphy.gif&ct=g" width="30">
 
 My programming languages are Swift(iOS Development), JavaScript (Web Development).
 
